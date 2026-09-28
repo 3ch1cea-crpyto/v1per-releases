@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "notes": "fixed crash due to protections, enjoy!",
-  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.4/V1Per-portable.exe",
-  "sha256": "fa5a5122598b94809649cd7dc9aab935eb86a323218754d20c0f59a1afcf5143",
-  "pub_date": "2026-09-28T11:21:21Z"
+  "version": "1.0.5",
+  "notes": "added instal ubl xiaomi mtk and fixes",
+  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.5/V1Per-portable.exe",
+  "sha256": "a655d48cc5c019429cae416a67767874fddbd9a227a818c41facbd55c31f2bbe",
+  "pub_date": "2026-09-28T13:52:56Z"
 }
