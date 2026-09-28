@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "notes": "improve security, error handlings and downloading.",
-  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.3/V1Per-portable.exe",
-  "sha256": "04c5af36c94a69c9580a0d8a8a980d1f986c88ee42ea3024856ffaf088fa7365",
-  "pub_date": "2026-09-28T10:26:56Z"
+  "version": "1.0.4",
+  "notes": "fixed crash due to protections, enjoy!",
+  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.4/V1Per-portable.exe",
+  "sha256": "fa5a5122598b94809649cd7dc9aab935eb86a323218754d20c0f59a1afcf5143",
+  "pub_date": "2026-09-28T11:21:21Z"
 }
