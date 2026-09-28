@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "notes": "clean ups, new features, fix heavy ui loads",
-  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.1/V1Per-portable.exe",
-  "sha256": "0d5444c16dc779fa055583a5c4b5b90ead916f1805b5938f02298960c3c64e2c",
-  "pub_date": "2026-09-28T06:14:19Z"
+  "version": "1.0.2",
+  "notes": "fix updater, and minimal issues",
+  "url": "https://github.com/3ch1cea-crpyto/v1per-releases/releases/download/1.0.2/V1Per-portable.exe",
+  "sha256": "633bab60eb9f004b052bef2390913c9ad0d87710c8fa25ad5c7525aff8b6007f",
+  "pub_date": "2026-09-28T06:31:27Z"
 }
